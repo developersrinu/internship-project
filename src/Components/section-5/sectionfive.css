@@ -1,0 +1,44 @@
+.section5 {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    /* background-image: url('../../assets/Path 606.png') !important;
+    background-size: cover; */
+    /* background-position: center; */
+    background-color: #F8F8FF
+
+}
+
+.section-H {
+    font-weight: 24/24 Medium;
+    font-family: Metropolis;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.section-profile {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.img-profile{
+    margin-left: 15px;
+
+}
+
+.ppr {
+    font-weight: 16/16 Bold;
+    font-family: Metropolis;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+.sectoin6 {
+    width: 962px;
+    height: 522px;
+    border-radius: 8px;
+    /* border: 2px solid black; */
+    margin: auto;
+    display: flex;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 20px auto;
+}
+
+.sectoin-R {
+    width: 50%;
+    height: 100%;
+    /* border: 2px solid black; */
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+
+}
+
+.sectoin-L {
+    width: 50%;
+    /* border: 2px solid black; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+
+.section-head {
+    width: 431px;
+    height: 120px;
+    font-weight: 32/32 Bold;
+    font-family: Metropolis;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+
+}

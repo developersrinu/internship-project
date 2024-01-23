@@ -1,0 +1,58 @@
+.footer {
+
+    height: 400px;
+    background-color: #FBFCFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer-div {
+    width: 948px;
+    height: 244px;
+    gap: 40px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.bb {
+    font-family: Metropolis;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.ch-2-c {
+    font-family: Metropolis;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 15px 0px;
+
+}
+
+.email {
+    width: 180px;
+     height: 40px;
+}
+
+.email-2{
+    position: relative;
+}
+.email-img{
+    position: absolute;
+    top: 10px;
+    left: 140px;
+
+}
+
+.e1{
+    padding: 10px;
+}
